@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Node.js  aplication practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Getsuga743/node-todo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Getsuga743/node-todo/issues"
+  },
+  "homepage": "https://github.com/Getsuga743/node-todo#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.0.3"
+  }
+}
